@@ -1,0 +1,5 @@
+*.autosave
+*~
+*.patch
+*.rej
+\#*.dxf
