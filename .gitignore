@@ -12,7 +12,6 @@ debug/
 *.idb
 *.pdb
 *.dll
-*.lib
 *.exe
 *.exp
 *.ilk
