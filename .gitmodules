@@ -1,0 +1,12 @@
+[submodule "kicad/kingslayer-28/libs/keebs.pretty"]
+	path = kicad/kingslayer-28/libs/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty
+[submodule "kicad/kingslayer-28/libs/kicad_lib_tmk"]
+	path = kicad/kingslayer-28/libs/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk
+[submodule "kicad/kingslayer-28/libs/keyboard_parts.pretty"]
+	path = kicad/kingslayer-28/libs/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "kicad/kingslayer-28/libs/Type-C.pretty"]
+	path = kicad/kingslayer-28/libs/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
