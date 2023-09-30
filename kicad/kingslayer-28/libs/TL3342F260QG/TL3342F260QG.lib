@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TL3342F260QG
+#/921972/1227983/2.50/4/4/Switch
+DEF TL3342F260QG S 0 30 Y Y 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "TL3342F260QG" 650 200 50 H V L CNN
+F2 "TL3342F260QG" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/TL3342F260QG.pdf" 650 0 50 H I L CNN
+F4 "Tactile Switches 5.2 X 5.2 260GF" 650 -100 50 H I L CNN "Description"
+F5 "1.54" 650 -200 50 H I L CNN "Height"
+F6 "612-TL3342F260QG" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/E-Switch/TL3342F260QG?qs=6C6BR4UgC3Of90YOH%2FEXyw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "E-Switch" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TL3342F260QG" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 -100 200 R 50 50 0 0 P
+X 2 2 800 -100 200 L 50 50 0 0 P
+X 3 3 0 0 200 R 50 50 0 0 P
+X 4 4 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

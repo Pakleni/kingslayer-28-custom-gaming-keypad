@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FA-238_16.0000MB-C3
+D Crystals 16MHz 50PPM -20C +70C 18.0pF
+K
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&lang=en
+$ENDCMP
+#
+#End Doc Library
