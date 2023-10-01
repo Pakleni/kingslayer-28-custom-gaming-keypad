@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3940IMP-3.3_NOPB
+D LM3940IMP-3.3/NOPB, Low Dropout Voltage Regulator, 1A, 3.3 V, 4.5  7.5 Vin, 4-Pin SOT-223
+K
+F http://www.ti.com/lit/ds/symlink/lm3940.pdf
+$ENDCMP
+#
+#End Doc Library
