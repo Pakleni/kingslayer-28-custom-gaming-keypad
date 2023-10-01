@@ -2272,6 +2272,11 @@
     (uuid 97aa2012-6e41-4988-a980-72a6548f145e)
   )
 
+  (text "Diodes are 1N4148W RHG" (at 148.59 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f9bce4af-8eeb-4de4-b8fd-c3d49b872028)
+  )
+
   (global_label "col3" (shape input) (at 100.33 20.32 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 015ab0ad-d049-4b2f-9d27-f4f1bdd01e4d)
