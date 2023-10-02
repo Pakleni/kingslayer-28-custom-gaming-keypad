@@ -14,6 +14,7 @@ Fully custom 28 key gaming keypad
 
 ## Features
 * Per-Key RGB
+* South Facing LED
 * Hot-Swap Sockets
 * Custom Plate
 * USB-C
