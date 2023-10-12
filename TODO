@@ -14,10 +14,14 @@ PCB:
         ✔ rgb leds
         ✔ reset button
         ✔ voltage regulator
+        ✔ USB-C connector
+        ✔ 2u stabilizer
+        ✔ m2 mounting holes
         ☐ oscillator
         ☐ capacitors
         ☐ resistors
         ☐ JTAG header
         ☐ boot switch
+    ☐ 3d models
     ☐ component placement
     ☐ routing
