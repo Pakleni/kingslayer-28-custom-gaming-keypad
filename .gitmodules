@@ -10,3 +10,9 @@
 [submodule "kicad/kingslayer-28/libs/Type-C.pretty"]
 	path = kicad/kingslayer-28/libs/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "kicad/kingslayer-28/libs/keyswitches.pretty"]
+	path = kicad/kingslayer-28/libs/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
+[submodule "kicad/kingslayer-28/libs/acheron_Components.pretty"]
+	path = kicad/kingslayer-28/libs/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty
