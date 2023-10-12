@@ -1,0 +1,23 @@
+✔ keyboard layout
+✔ plate design
+Case:
+    ✔ dimensions
+    ✔ 2d sketch
+    ☐ 3d design
+PCB:
+    ✔ schematic
+    ☐ footprint picking @started
+        ✔ switch diodes
+        ✔ hotswap sockets
+        ✔ MCU
+        ✔ rgb controller
+        ✔ rgb leds
+        ✔ reset button
+        ✔ voltage regulator
+        ☐ oscillator
+        ☐ capacitors
+        ☐ resistors
+        ☐ JTAG header
+        ☐ boot switch
+    ☐ component placement
+    ☐ routing
