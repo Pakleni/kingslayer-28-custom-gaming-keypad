@@ -17,11 +17,11 @@ PCB:
         ✔ USB-C connector
         ✔ 2u stabilizer
         ✔ m2 mounting holes
-        ☐ oscillator
+        ✔ JTAG header
+        ✔ boot switch
+        ✔ oscillator
         ☐ capacitors
         ☐ resistors
-        ☐ JTAG header
-        ☐ boot switch
     ☐ 3d models
     ☐ component placement
     ☐ routing

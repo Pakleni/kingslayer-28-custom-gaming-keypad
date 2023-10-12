@@ -11,4 +11,5 @@
   (lib (name "TL3342F260QG")(type "KiCad")(uri "${KIPRJMOD}/libs/TL3342F260QG")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libs/keyswitches.pretty")(options "")(descr ""))
   (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/libs/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "SS12D07VG4")(type "KiCad")(uri "${KIPRJMOD}/libs/SS12D07VG4")(options "")(descr ""))
 )
