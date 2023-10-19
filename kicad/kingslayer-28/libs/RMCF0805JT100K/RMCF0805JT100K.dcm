@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RMCF0805JT100K
+D RES, 0805, 100 Kohm, 5%, 0.125W
+K
+F https://cs.seielect.com/catalog/SEI-RMCF_RMCP.pdf
+$ENDCMP
+#
+#End Doc Library

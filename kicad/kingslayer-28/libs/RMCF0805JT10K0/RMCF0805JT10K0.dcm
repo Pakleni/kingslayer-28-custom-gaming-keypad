@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RMCF0805JT10K0
+D RES SMD 10K OHM 5% 1/8W 0805
+K
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
+#End Doc Library

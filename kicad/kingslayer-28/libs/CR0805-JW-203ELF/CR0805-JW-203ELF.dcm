@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR0805-JW-203ELF
+D Bourns CR0805 Series Thick Film Surface Mount Resistor 0805 Case 20k +/-5% 0.125W +/-200ppm/C
+K
+F https://www.bourns.com/pdfs/chpreztr.pdf
+$ENDCMP
+#
+#End Doc Library

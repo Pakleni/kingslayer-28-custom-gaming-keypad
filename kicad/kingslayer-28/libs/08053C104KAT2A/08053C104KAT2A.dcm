@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 08053C104KAT2A
+D 0805 X7R ceramic capacitor, 25V 0.1uF AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc X7R Dielectric  /-10% SMD
+K
+F http://datasheets.avx.com/X7RDielectric.pdf
+$ENDCMP
+#
+#End Doc Library
