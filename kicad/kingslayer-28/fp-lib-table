@@ -17,4 +17,5 @@
   (lib (name "08053C104KAT2A")(type "KiCad")(uri "${KIPRJMOD}/libs/08053C104KAT2A")(options "")(descr ""))
   (lib (name "RMCF0805JT10K0")(type "KiCad")(uri "${KIPRJMOD}/libs/RMCF0805JT10K0")(options "")(descr ""))
   (lib (name "RMCF0805JT100K")(type "KiCad")(uri "${KIPRJMOD}/libs/RMCF0805JT100K")(options "")(descr ""))
+  (lib (name "0ZCK0050FF2E")(type "KiCad")(uri "${KIPRJMOD}/libs/0ZCK0050FF2E")(options "")(descr ""))
 )

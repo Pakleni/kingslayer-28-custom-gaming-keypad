@@ -7,4 +7,5 @@
   (lib (name "TL3342F260QG")(type "Legacy")(uri "${KIPRJMOD}/libs/TL3342F260QG/TL3342F260QG.lib")(options "")(descr ""))
   (lib (name "1N4148W_RHG")(type "Legacy")(uri "${KIPRJMOD}/libs/1N4148W_RHG/1N4148W_RHG.lib")(options "")(descr ""))
   (lib (name "LM3940IMP-3.3_NOPB")(type "Legacy")(uri "${KIPRJMOD}/libs/LM3940IMP-3.3_NOPB/LM3940IMP-3.3_NOPB.lib")(options "")(descr ""))
+  (lib (name "0ZCK0050FF2E")(type "Legacy")(uri "${KIPRJMOD}/libs/0ZCK0050FF2E/0ZCK0050FF2E.lib")(options "")(descr ""))
 )

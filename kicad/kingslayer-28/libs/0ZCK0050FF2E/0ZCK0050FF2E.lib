@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 0ZCK0050FF2E
+#/1227802/1227983/2.50/2/3/Fuse
+DEF 0ZCK0050FF2E F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "0ZCK0050FF2E" 550 150 50 H V L CNN
+F2 "FUSC2214X125N" 550 50 50 H I L CNN
+F3 "https://eagle.componentsearchengine.com/Datasheets/2/0ZCK0050FF2E.pdf" 550 -50 50 H I L CNN
+F4 "BEL FUSE - CIRCUIT PROTECTION - 0ZCK0050FF2E - Resettable Fuse, PPTC, 0805 (2012 Metric), 0ZCK Series, 6 VDC, 500 mA, 1 A, 0.1 s" 550 -150 50 H I L CNN "Description"
+F5 "1.25" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Bel Circuit Protection" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "0ZCK0050FF2E" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 2 0 1 6 200 0 500 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
