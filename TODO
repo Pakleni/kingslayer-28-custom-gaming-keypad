@@ -3,10 +3,10 @@
 Case:
     ✔ dimensions
     ✔ 2d sketch
-    ☐ 3d design
+    ☐ 3d design @started
 PCB:
     ✔ schematic
-    ☐ footprint picking @started
+    ✔ footprint picking
         ✔ switch diodes
         ✔ hotswap sockets
         ✔ MCU
@@ -20,8 +20,8 @@ PCB:
         ✔ JTAG header
         ✔ boot switch
         ✔ oscillator
-        ☐ capacitors
-        ☐ resistors
-    ☐ 3d models
+        ✔ capacitors
+        ✔ resistors
+    ✔ 3d models
     ☐ component placement
     ☐ routing
