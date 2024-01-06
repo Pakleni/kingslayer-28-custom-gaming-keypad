@@ -3,7 +3,7 @@
 Case:
     ✔ dimensions
     ✔ 2d sketch
-    ☐ 3d design @started
+    ✔ 3d design
 PCB:
     ✔ schematic
     ✔ footprint picking
