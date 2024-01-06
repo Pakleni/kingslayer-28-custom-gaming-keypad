@@ -5525,7 +5525,7 @@
     (property "Value" "12401598E4#2A" (at 203.2 25.4 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Type-C:USB_C_GCT_USB4085" (at 185.42 49.53 0)
+    (property "Footprint" "custom:USB_C_GCT_USB4085" (at 185.42 49.53 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 185.42 49.53 0)
