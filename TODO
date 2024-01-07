@@ -25,7 +25,7 @@ PCB:
     ✔ 3d models
     ✔ component placement
     ✔ routing
-    ☐ DRC @started
-    ☐ gerber generation
+    ✔ DRC
+    ✔ gerber generation
 Software:
     ☐ ...
