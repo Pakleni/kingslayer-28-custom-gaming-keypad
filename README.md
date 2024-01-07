@@ -11,6 +11,8 @@ Fully custom 28 key gaming keypad
 ### PCB
 <img src="kicad/kingslayer-28-1.png" width="500px"/>
 <img src="kicad/kingslayer-28-2.png" width="500px"/>
+<img src="kicad/kingslayer-28-front.png" width="500px"/>
+<img src="kicad/kingslayer-28-back.png" width="500px"/>
 
 ## Features
 * Per-Key RGB
