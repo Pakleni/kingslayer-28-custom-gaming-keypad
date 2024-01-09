@@ -1,0 +1,25 @@
+Number,Name,Value,Amount,Link
+1,Hot-swap Sockets,DUROCK Transparent MX,28,https://www.aliexpress.com/item/1005005090520759.html
+2,RGB Diodes,SMD 3528/6028 RGB LED,28,https://www.aliexpress.com/item/32834931333.html
+3,Switch Diodes,1N4148W RHG,28,https://eu.mouser.com/ProductDetail/821-1N4148WRHG
+4,Microcontroller,STM32F303CCT7,1,https://eu.mouser.com/ProductDetail/STMicroelectronics/STM32F303CCT7?qs=ClYTdQWm4hCblQZF2ZvldA%3D%3D
+5,USB C connector,USB4085-GF-A,1,https://eu.mouser.com/ProductDetail/640-USB4085-GF-A
+6,Reset Switch,TL3342F260QG,1,https://eu.mouser.com/ProductDetail/612-TL3342F260QG
+7,LED Driver,IS31FL3731-QFLS2-TR,1,https://eu.mouser.com/ProductDetail/870-31FL3731-QFLS2TR
+8,Fuse,0ZCK0050FF2E,1,https://eu.mouser.com/ProductDetail/530-0ZCK0050FF2E
+9,Crystal,IC21008.000M30.0EE1B,1,https://www.mgelectronic.rs/quarze-kristal-smd-8-mhz
+10,Voltage Regulator,"LM 3940 IMP-3,3",1,https://www.mgelectronic.rs/integrisano-kolo-lm-3940-imp-33
+11,Header,DS1025-01-1*4P8BV1-B,1,https://www.mgelectronic.rs/1-1154
+12,SPDT Switch,SS12D07,1,https://kelco.rs/katalog/detalji.php?ID=18042
+13,Capacitor,22p,2,https://kelco.rs/katalog/detalji.php?ID=12900
+14,Capacitor,0.1u/100n,6,https://eu.mouser.com/ProductDetail/581-08053C104K
+15,Capacitor,0.47u/470n,1,https://eu.mouser.com/ProductDetail/187-CL21B474KOFNNNE
+16,Capacitor,1u,1,https://kelco.rs/katalog/detalji.php?ID=12933
+17,Capacitor,4.7u,1,https://kelco.rs/katalog/detalji.php?ID=20226
+18,Capacitor,33u,1,https://kelco.rs/katalog/detalji.php?ID=10224
+19,Resistor,1.5k,1,https://kelco.rs/katalog/detalji.php?ID=9477
+20,Resistor,4.7k,3,https://kelco.rs/katalog/detalji.php?ID=9485
+21,Resistor,5.1k,2,https://eu.mouser.com/ProductDetail/652-CR0805FX-5101ELF
+22,Resistor,10k,1,https://eu.mouser.com/ProductDetail/708-RMCF0805JT10K0
+23,Resistor,20k,1,https://eu.mouser.com/ProductDetail/652-CR0805JW-203ELF
+24,Resistor,100k,1,https://eu.mouser.com/ProductDetail/708-RMCF0805JT100K
