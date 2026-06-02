@@ -2,6 +2,9 @@
 Fully custom 28 key gaming keypad
 
 ## Images
+### Finished Keyboard
+<img src="keyboard.jpeg" width="500px"/>
+
 ### Keyboard Layout
 <img src="keyboard-layout-editor/keyboard-layout.png" width="500px"/>
 
