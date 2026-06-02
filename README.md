@@ -1,9 +1,9 @@
 # Kingslayer 28
-Fully custom 28 key gaming keypad
+*Fully custom 28 key gaming keypad*
+
+<img src="keyboard.jpeg" width="500px"/>
 
 ## Images
-### Finished Keyboard
-<img src="keyboard.jpeg" width="500px"/>
 
 ### Keyboard Layout
 <img src="keyboard-layout-editor/keyboard-layout.png" width="500px"/>
